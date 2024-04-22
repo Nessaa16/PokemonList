@@ -70,23 +70,23 @@ Cubone,104,50,95,40,50,Ground,35,Male,Johto
 Marowak,105,80,110,50,80,Ground,45,Male,Johto
 Hitmonlee,106,120,53,35,110,Fighting,87,Male,Johto
 Hitmonchan,107,105,79,35,110,Fighting,76,Male,Johto
-Lickitung,108,55,75,60,75,Normal,30,Male,Johto
-Koffing,109,65,95,60,45,Poison,35,Genderless,Johto
+Lickitung,108,85,75,60,75,Normal,30,Male,Johto
+Koffing,109,95,95,60,45,Poison,35,Genderless,Johto
 Weezing,110,90,120,85,70,Poison,60,Genderless,Johto
 Rhyhorn,111,85,95,30,30,Ground/Rock,25,Male,Johto
 Rhydon,112,130,120,45,45,Ground/Rock,40,Male,Johto
 Chansey,113,5,5,35,105,Normal,50,Female,Johto
 Tangela,114,55,115,100,40,Grass,60,Genderless,Johto
 Kangaskhan,115,95,80,40,80,Normal,90,Female,Johto
-Horsea,116,40,70,70,25,Water,60,Male,Johto
+Horsea,116,70,70,70,25,Water,60,Male,Johto
 Seadra,117,65,95,95,45,Water,85,Male,Johto
 Goldeen,118,67,60,35,50,Water,63,Female,Johto
 Seaking,119,92,65,65,80,Water,68,Male,Johto
-Staryu,120,45,55,70,55,Water,85,Genderless,Johto
+Staryu,120,75,55,70,55,Water,85,Genderless,Johto
 Starmie,121,75,85,100,85,Water/Psychic,115,Genderless,Johto
-Mr. Mime,122,45,65,100,120,Psychic,90,Male,Johto
+Mr. Mime,122,75,65,100,120,Psychic,90,Male,Johto
 Scyther,123,110,80,55,80,Bug/Flying,105,Male,Johto
-Jynx,124,50,35,115,95,Ice/Psychic,95,Female,Johto
+Jynx,124,60,35,115,95,Ice/Psychic,95,Female,Johto
 Electabuzz,125,83,57,95,85,Electric,105,Male,Johto
 Magmar,126,95,57,100,85,Fire,93,Male,Johto
 Pinsir,127,125,100,55,70,Bug,85,Male,Johto
@@ -94,7 +94,7 @@ Tauros,128,100,95,40,70,Normal,110,Male,Johto
 Magikarp,129,10,55,15,20,Water,80,Male,Johto
 Gyarados,130,125,79,60,100,Water,81,Male,Johto
 Lapras,131,85,80,85,95,Water/Ice,60,Genderless,Johto
-Ditto,132,48,48,48,48,Normal,48,Genderless,Johto
+Ditto,132,68,48,48,48,Normal,48,Genderless,Johto
 Eevee,133,55,50,45,65,Normal,55,Male,Johto
 Vaporeon,134,65,60,110,95,Water,65,Male,Johto
 Jolteon,135,65,60,110,95,Electric,130,Male,Johto
